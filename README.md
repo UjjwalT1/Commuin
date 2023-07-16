@@ -9,3 +9,12 @@ records in the application database.
 
 This is a Jetpack Compose Project and Its purely limited to the firebase features such as Firestore,RealtimeDB , Storage . 
 Its still not production ready . As authenitication performed in this application are just bare minimum to be called authentication. Eg: Password is fetched locally to verify instead on server side because I didnt used Firebase funcion.
+
+
+Home Page : 
+![image](https://github.com/UjjwalT1/Commuin/assets/121283901/7a3add63-b1e3-496e-aab6-c8f62734f7fd)
+
+![image](https://github.com/UjjwalT1/Commuin/assets/121283901/4a27052f-aab1-4c35-bc0c-eda58281a53c)
+
+![a](https://github.com/UjjwalT1/Commuin/assets/121283901/0b5fd53c-c588-4c34-9a8b-e22d8d29c2b6)
+
